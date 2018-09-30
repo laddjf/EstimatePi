@@ -1,0 +1,7 @@
+C:\Users\laddj\source\repos\EstimatePi\EstimatePi\bin\Debug\EstimatePi.exe.config
+C:\Users\laddj\source\repos\EstimatePi\EstimatePi\bin\Debug\EstimatePi.exe
+C:\Users\laddj\source\repos\EstimatePi\EstimatePi\bin\Debug\EstimatePi.pdb
+C:\Users\laddj\source\repos\EstimatePi\EstimatePi\obj\Debug\EstimatePi.csprojAssemblyReference.cache
+C:\Users\laddj\source\repos\EstimatePi\EstimatePi\obj\Debug\EstimatePi.csproj.CoreCompileInputs.cache
+C:\Users\laddj\source\repos\EstimatePi\EstimatePi\obj\Debug\EstimatePi.exe
+C:\Users\laddj\source\repos\EstimatePi\EstimatePi\obj\Debug\EstimatePi.pdb
